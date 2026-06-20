@@ -1,0 +1,4 @@
+{
+  "dll": "NoBloodMod.dll",
+  "entryClass": "NoBloodMod.NoBloodModMain"
+}
